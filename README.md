@@ -30,13 +30,15 @@ Visualization of key patterns
 ## Key Insights
 Top-performing products: Salad is the most profitable item, indicating high revenue efficiency in this category.   
 Most purchased product: Juice is the most frequently purchased item, showing strong customer preference in volume, although not necessarily in revenue contribution.    
+Product category performance: A comparison between food and beverages reveals differences in revenue contribution, providing insight into category-level demand behavior.     
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/7b11db97-cea3-4057-9f36-759c0f951e1c" width="250" />
-  <img src="https://github.com/user-attachments/assets/12b28625-90fc-435d-8fca-57d7fa3663d8" width="250" />
+  <img src="https://github.com/user-attachments/assets/7b11db97-cea3-4057-9f36-759c0f951e1c" height="250" />
+  <img src="https://github.com/user-attachments/assets/12b28625-90fc-435d-8fca-57d7fa3663d8" height="250" />
+  <img src="https://github.com/user-attachments/assets/ab5bde37-b273-454d-88cb-e773a0c87b22" height="250"  />
 </p>
 
 
-Product category performance: A comparison between food and beverages reveals differences in revenue contribution, providing insight into category-level demand behavior.  
+
 Seasonality and time trends: Sales show clear temporal variation. February is the lowest-performing month, while June and October are the strongest months, indicating seasonal effects in customer demand.  
 Weekly patterns: Sales are not evenly distributed throughout the week. Thursday and Friday consistently show the highest sales volume, suggesting increased demand towards the end of the week.  
 Correlation analysis: A correlation analysis between numerical variables was conducted; however, no strong linear relationships were identified, suggesting that sales drivers may be non-linear or influenced by external factors not captured in the dataset.
