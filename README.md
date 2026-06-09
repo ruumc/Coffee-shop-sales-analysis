@@ -41,6 +41,11 @@ Product category performance: A comparison between food and beverages reveals di
 
 Seasonality and time trends: Sales show clear temporal variation. February is the lowest-performing month, while June and October are the strongest months, indicating seasonal effects in customer demand.  
 Weekly patterns: Sales are not evenly distributed throughout the week. Thursday and Friday consistently show the highest sales volume, suggesting increased demand towards the end of the week.  
+<p float="left">
+  <img  height="250" alt="image" src="https://github.com/user-attachments/assets/48363c59-aa70-4c82-859f-282537f9ad93" />
+  <img  height="250" alt="image" src="https://github.com/user-attachments/assets/553c9c42-bb1b-42ea-bd9d-4c1874477ce8" />
+
+</p>
 Correlation analysis: A correlation analysis between numerical variables was conducted; however, no strong linear relationships were identified, suggesting that sales drivers may be non-linear or influenced by external factors not captured in the dataset.
 
 ## Conclusion
