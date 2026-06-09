@@ -40,8 +40,9 @@ Product category performance: Food products generate higher total revenue compar
 
 
 Seasonality and time trends: Sales show clear temporal variation. February is the lowest-performing month, while June and October are the strongest months, indicating seasonal effects in customer demand.  
-Weekly patterns: Sales are not evenly distributed throughout the week. Thursday and Friday consistently show the highest sales volume, suggesting increased demand towards the end of the week.  
-<img  height="350" alt="image" src="https://github.com/user-attachments/assets/48363c59-aa70-4c82-859f-282537f9ad93" />
+Weekly patterns: Sales are not evenly distributed throughout the week. Thursday and Friday consistently show the highest sales volume, suggesting increased demand towards the end of the week.      
+
+<img width="990" height="989" alt="image" src="https://github.com/user-attachments/assets/ca209456-39c5-4a7e-9020-b5d458c6d9ba" />
 
 Correlation analysis: A correlation analysis between numerical variables was conducted; however, no strong linear relationships were identified, suggesting that sales drivers may be non-linear or influenced by external factors not captured in the dataset.
 
